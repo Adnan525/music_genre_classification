@@ -38,3 +38,11 @@ Stage 3 DT, Gradient Boost, Ada Boost, ANN -
 | xgb_no_scale_no_leak          | 0.47250   |
 | xgb_min_max_scale_no_leak     | 0.47100   |
 | ANN_min_max_scaled_no_leak     | 0.45750   |
+  
+    
+Image classification -  
+| Model       | Accuracy  |
+| ----------- | --------- |
+| Alexnet     | 0.65   |
+| Vgg16       | 0.185  |
+| Resnet50    | 0.56   |
